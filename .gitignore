@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Project Specific
+results/
+osint_results.json
+full_osint_results.json
+herlock/
+phoneinfoga/
+implementation_plan_v4.md
+
+# IDEs
+.idea/
+.vscode/
+*.swp

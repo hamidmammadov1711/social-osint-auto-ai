@@ -1,0 +1,10 @@
+requests
+colorama
+rich
+python-dotenv
+fpdf2
+jinja2
+pyyaml
+holehe
+social-analyzer
+pytz
